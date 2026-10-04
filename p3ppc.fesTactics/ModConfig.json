@@ -1,0 +1,24 @@
+{
+  "ModId": "p3ppc.fesTactics",
+  "ModName": "FES Tactics",
+  "ModAuthor": "AnimatedSwine37, moddaman",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Ports the tactics AI from FES to P3P making your AI friends much smarter :)",
+  "ModDll": "p3ppc.fesTactics.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p3ppc.fesTactics.dll",
+  "ModR2RManagedDll64": "x64/p3ppc.fesTactics.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3ppc.fesTactics.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks",
+    "Reloaded.Memory.SigScan.ReloadedII"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": ["p3p.exe"],
+  "ProjectUrl": ""
+}
